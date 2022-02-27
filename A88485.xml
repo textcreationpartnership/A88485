@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVhereas at the open generall quarter sessions of the publick peace holden for the city of London, at the Guildhall of the same city on Munday the three and twentieth day of Aprill, in the year of our Lord one thousand six hundred fifty and five; ...</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88485</idno>
+            <idno type="STC">Wing L2887C</idno>
+            <idno type="STC">Thomason 669.f.19[76]</idno>
+            <idno type="STC">ESTC R212294</idno>
+            <idno type="EEBO-CITATION">99870932</idno>
+            <idno type="PROQUEST">99870932</idno>
+            <idno type="VID">163412</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163412)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[76])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVhereas at the open generall quarter sessions of the publick peace holden for the city of London, at the Guildhall of the same city on Munday the three and twentieth day of Aprill, in the year of our Lord one thousand six hundred fifty and five; ...</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>3 sheets ([3] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher, Printer to the Honorable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening lines of text.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>An order regulating prices and wages.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Price regulation --  England --  London --  Early works to 1800.</term>
+               <term>Wages --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>London (England) --  Economic conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="municipal_order">
+            <pb facs="tcp:163412:1" rendition="simple:additions"/>
+            <p>Whereas at the open Generall Quarter Seſsions of the Publick peace holden for the City of <hi>London,</hi> at the <hi>Guildhall</hi> of the ſame City on <hi>Munday</hi> the three and twentieth day of <hi>Aprill,</hi> in the year of our Lord one thouſand ſix hundred fifty and five; before <hi>Chriſtopher Packe</hi> Mayor of the City of <hi>London, Thomas Atkin, John Kendricke, John Dethicke,</hi> and <hi>Robert Tichborne</hi> Aldermen of the ſame City; Juſtices aſsigned to keep the publick peace in the ſame City, and alſo to hear and determine divers Felonies, Treſpaſſes, and other Miſdemeanors within the ſame City committed: That ſame Quarter Seſsions of the Peace was adjourned by the foreſaid Juſtices there, untill <hi>Wedneſday</hi> the five and twentieth day of the ſame moneth of <hi>Aprill,</hi> in the year aforeſaid, at Seven of the Clock in the forenoon of the ſame day, to be holden at Juſtice-hall in the <hi>Old Bayley</hi> in the Pariſh of <hi>Sepulchers</hi> in the Ward of <hi>Farringdon</hi> without <hi>London</hi> aforeſaid, before the foreſaid Iuſtices and others their Fellowes, further to do as the ſame Iuſtices and Court ſhould conſider &amp;c. And there<g ref="char:EOLhyphen"/>upon at that ſame Generall Quarter Seſſions of the Publick Peace holden by the Adjournment aforeſaid, at Iuſtice hall aforeſaid, in the Pariſh and Ward aforeſaid, on the ſaid <hi>Wedneſday</hi> the five and twentieth day of <hi>Aprill,</hi> in the year aforeſaid, before the aforeſaid <hi>Chriſtopher Pack</hi> Mayor of the ſaid City of <hi>London, Thomas Atkin, Thomas Foote, John Kendrick,</hi> Sir <hi>Thomas Vyner</hi> Knight, <hi>John Dethick, Robert Tichborn, John Ireton, Stephen Eſwick,</hi> and <hi>Walter Bigge</hi> Aldermen of the ſame City, Iuſtices aſſigned to keep the Publick Peace in the ſame City; And alſo to hear and determine divers Felonies, Treſpaſſes, and other Miſdemeanors committed within the ſame City.</p>
+            <p>
+               <seg rend="decorInit">T</seg>O the end that Brewers of Ale and Beer to ſell within this City and Li<g ref="char:EOLhyphen"/>berties thereof, may have reaſonable gains for the ſame and no more: It is ordered by the ſaid Iuſtices of Peace of this City, aſſembled at this Ge<g ref="char:EOLhyphen"/>nerall Quarter Seſſions of the Publick Peace holden for the ſaid City, in purſuance of what the Laws and Statutes do require: That the Brewers of this City and all others that now do, or hereafter ſhall ſell any Beer or Ale within the ſame or the Liberties thereof, ſhall not from henceforth ſell any Ale or Beer, but at the Rates and Prices hereafter fol<g ref="char:EOLhyphen"/>lowing that is to ſay: The ſtrongeſt and the beſt ſort of Ale and Beer at the Rate and Price of Ten ſhillings the Barrell and not above, The ſecond ſort of Ale and Beer at the Price and Rate of Eight ſhillings the Barrell and not above, The third ſort of Ale and Beer at the Rate and Price of ſix ſhillings the Barrell and not above, And the fourth ſort of Ale and Beer be<g ref="char:EOLhyphen"/>ing the ſmalleſt ſort of Ale and Beer, at the Rate and Price of four ſhillings the Barrell and not above; And ſo after thoſe Rates reſpectively, for every greater or leſſer veſſell, untill other order ſhal be taken herein, upon ſuch pains and penalties as by the Lawes and Statutes are in this behalf appointed.</p>
+            <p>Alſo to the end that Inholders and Hoſtlers within this City and the Liberties thereof, may have reaſonable gaines and no more; The Iuſtices of the Peace of this City, aſſembled at this Generall Quarter Seſſions of the publick Peace here holden for the City of <hi>London,</hi> taking into conſideration the great plenty of Oates and Hay within this Common-wealth, and the rea<g ref="char:EOLhyphen"/>ſonable values thereof, do hereby declare and order, that no Inholder or Hoſtler within this City, or the Liberties thereof, ſhall from henceforth require and take of any perſon above ſeven pence for his or her Lodging, and for Hay, Water, Litter and Dreſſing for one Horſe for one day and one night, Nor above ſix pence for Hay, Water, Litter and Dreſſing for one Horſe for a day and a night; where the Owner or Vſer thereof ſhall not have convenient Lodging, there that Night; And alſo that no ſuch Inholder or Hoſtler ſhall from henceforth require or take above ſix pence for a Peck of the beſt Oates Sealed Meaſure, And ſo after thoſe Rates for Lodging, Hay, Litter and Oates, reſpectively for longer time or leſſer, or greater Meaſures, untill the Iuſtices of the Peace of this City ſhall give further order herein concerning the ſame, upon ſuch pains and penalties as by the Lawes and Statutes are in this behalf ap<g ref="char:EOLhyphen"/>pointed.</p>
+            <pb facs="tcp:163412:2" rendition="simple:additions"/>
+            <p> Alſo in purſuance of ſeverall Acts of Parliament made touching divers Orders for Arti<g ref="char:EOLhyphen"/>ficers, Laborers, Servants, and Apprentices; And for duely putting the ſame in Execution in rating the wages for Artificers, Laborers, Servants, Apprentices, Workmen and Work<g ref="char:EOLhyphen"/>women: The Iuſtices of Peace here preſent being the more part of the Iuſtices of Peace reſiant and within the City of <hi>London,</hi> having aſſembled themſelves together, and called unto them ſuch diſcreet and grave perſons of the ſaid City of <hi>London</hi> as they have thought meet, and con<g ref="char:EOLhyphen"/>ſidered together, reſpecting the plenty of the preſent time, and the Cheapneſſe of all ſorts of provi<g ref="char:EOLhyphen"/>ſions (praiſed be God for the ſame) And having taken into conſideration all other circumſtances neceſſary to be conſidered, Have and do by authority and vertue of the ſaid Statute, limit, rate, and appoint the Wages of Artificers, Handicraftſmen, Laborers, Servants, Apprentices, work<g ref="char:EOLhyphen"/>men and workwomen (working within this City and Liberties thereof) hereafter mentioned and expreſſed to be obſerved by the Givers and Receivers thereof, as the ſame are hereafter ſet down, rated, limited and appointed, or according to the ſame proportion and none others, nor otherwiſe in any manner whatſoever; To wit,
+<table>
+                  <row>
+                     <cell>
+                        <hi>FIRST, that no Carpenter, Bricklayer, Artificer, Plaiſterers, Maſons, Joyners, Carvers, or other Handicrafts man ſhall require, receive or take for his own work, for any one day above</hi>
+                     </cell>
+                     <cell>00 <hi>l.</hi>
+                     </cell>
+                     <cell>02 <hi>s.</hi>
+                     </cell>
+                     <cell>06 <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nor for the work of any Iourneyman or Apprentice having been brought up in his Trade full Two years, for any one days work above</hi>
+                     </cell>
+                     <cell>00 <hi>l.</hi>
+                     </cell>
+                     <cell>02 <hi>s.</hi>
+                     </cell>
+                     <cell>00 <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nor for the work of any Apprentice not having been brought up in his Trade full Two years, for any one days work above</hi>
+                     </cell>
+                     <cell>00 <hi>l.</hi>
+                     </cell>
+                     <cell>01 <hi>s.</hi>
+                     </cell>
+                     <cell>06 <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>And ſo after the ſame Rates for days, weeks, &amp; moneths.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>
+                           <hi>Secondly,</hi> that no Laborer to any Car<g ref="char:EOLhyphen"/>penter, Bricklayer, Artificer or other Handicrafts man, or to any other perſon whatſoever ſhall require, receive, or take for his work for any one day above</hi>
+                     </cell>
+                     <cell>00 <hi>l.</hi>
+                     </cell>
+                     <cell>01 <hi>s.</hi>
+                     </cell>
+                     <cell>04 <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>And ſo after the ſame Rates for days, weeks, &amp; moneths.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>
+                           <hi>Thirdly,</hi> that no Man-ſervant being not an Artificer ſhall require, receive, or take for his ſervice for one whole year not above</hi>
+                     </cell>
+                     <cell>05 <hi>l.</hi>
+                     </cell>
+                     <cell>00 <hi>s.</hi>
+                     </cell>
+                     <cell>00 <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>And ſo after that Rate for a ſhorter or longer time.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>And the Iuſtices aforeſaid do hereby Order, that every perſon and perſons ſhall and do, obſerve the ſaid Rates in giving and receiving wages, ſo rated, limited and appointed as afore<g ref="char:EOLhyphen"/>ſaid, upon the pains and puniſhments in the Acts aforeſaid mentioned; Which Acts alſo require that no Artificer, Laborer, Servant, Apprentice, Workman, Workwoman, or Man-ſervant do hereafter refuſe to be hired to work, labor, and ſerve for the wages aforeſaid, ſo rated, limi<g ref="char:EOLhyphen"/>ted and appointed to them reſpectively as aforeſaid; And that no perſon ſhall retain or accept into his or her ſervice any Man-ſervant or Maid-ſervant, before ſuch ſervant ſhall produce and ſhew a Teſtimoniall of his her or their Licenſe to depart out of his or her laſt ſervice, according to the Statute in that caſe made and provided.</p>
+            <p>
+               <hi>VVHereas complaints are daily made by Merchants and other Citizens, of the exceſſive Rates demanded and received by Carmen, above what is reaſonable, and hath been limi<g ref="char:EOLhyphen"/>ted and appointed for Carriages within this City and the Liberties thereof: Now upon due con<g ref="char:EOLhyphen"/>ſideration had as well of former times as of the preſent, and all circumſtances neceſſary to be con<g ref="char:EOLhyphen"/>ſidered Albeit the prices of ſome commodities of neceſſary uſe to the Carmen are greater then for<g ref="char:EOLhyphen"/>merly, &amp; conſequently there ought to be ſome increaſe of the Rates heretofore ſet for their labour and carriage; Yet is it as requiſite that they be not left to themſelves to take what they will, but that Rates beſet what they ought to demand and take for their Carriages: It is therefore Ordered by the Iuſtices aforeſaid, that all Carmen trading or working with Carres in the City of</hi> London <hi>and the Liberties thereof, ſhall and may demand and take for every carriage or load of the commodities under mentioned, the Rates hereafter following, and ſhall not exceed the ſame upon pain to be ſtrictly puniſhed and proceeded againſt for every offence to the contrary; That is to ſay,</hi>
+            </p>
+            <p n="1">
+               <pb facs="tcp:163412:3" rendition="simple:additions"/> 1. FIrſt, from any the Wharfs between the Tower and London-bridge, to Tower-ſtreet, Grace-churchſtreet, Fanchurchſtreet, Biſhopſgateſtreet with<g ref="char:EOLhyphen"/>in, Cornhill, and places of like diſtance up the hill with xviij <hi>C.</hi> weight, not exceeding xxiij. <hi>C.</hi> weight.</p>
+            <p>
+               <hi>In which may be included,</hi>
+               <list>
+                  <item>Two punchions of Prunes, two bales of Ma<g ref="char:EOLhyphen"/>cher, twenty barrels of Figs, two fats of Fuſti<g ref="char:EOLhyphen"/>ans, five ordinary ſacks of Cotton-woolls of Smyrna, and three extraordinary; as bags of Cyprus wooll, butts of Currans, great butts of Oyles, three cheſts of Sugars, eight bags of Al<g ref="char:EOLhyphen"/>lums, one laſte of Flax, one laſte of Hemp, and other goods of the like kinde and weights, for every Load xx <hi>d.</hi>
+                  </item>
+                  <item>And for Seacols the Load xij <hi>d.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="2">2. <hi>Alſo from any the Wharfs aforeſaid, To</hi> Broadſtreet, Lothbury, Old-jury, Baſſiſhaw, Cole<g ref="char:EOLhyphen"/>manſtreet, Ironmongerlane, St. Laurence-lane, Milk<g ref="char:EOLhyphen"/>ſtreet, Aldermanbury, Cheapſide, Woodſtreet, Friday<g ref="char:EOLhyphen"/>ſtreet, Breadſtreet, and places of like diſtance, for the like weight of xviij <hi>C.</hi> not exceeding xxiij <hi>C.</hi>
+            </p>
+            <list>
+               <item>For the goods aforeſaid, and others of the like kinde for every Load xxij <hi>d.</hi>
+               </item>
+               <item>And being above xxiij <hi>C.</hi> weight upon eve<g ref="char:EOLhyphen"/>ry hundred ij <hi>d.</hi>
+               </item>
+               <item>And for Seacoals the Load xiiij <hi>d.</hi>
+               </item>
+            </list>
+            <p n="3">3. <hi>Alſo from any the Wharfs aforeſaid, To</hi> Smithfield bars, Holborn bars, Temple barre, or any of the barrs on the Northſide of the City, and places of like diſtance up the Hill with xviij <hi>C.</hi> weight, not exceeding xxxiij <hi>C.</hi> weight.</p>
+            <p>For every Load ij <hi>s.</hi> vj <hi>d.</hi>
+            </p>
+            <p>And going beyond the ſaid places, the parties to agree with the Carmen.</p>
+            <p n="4">4 <hi>Alſo from any the Wharfs aforeſaid, To</hi> Towerſtreet, Biſhopſgate within, Cornhill, and places of like diſtance up the Hill with xiij <hi>C.</hi> weight, not exceeding xiij <hi>C.</hi> weight; <hi>In which may be included,</hi> Twenty pieces of Raiſins, a load of Raiſins of the Sun, ſix bags of Pepper, ſix ordinary bags of Galls, three great bags of Galls, ſix bales and barrels of Indico, ſix bales of Gro<g ref="char:EOLhyphen"/>grains, ſix ordinary bales of Turkey ſilk, eight bales of India ſilk, five hogſheads of Cloves and Tobacco, four bales of Callicoes, three hogſheads of Wines, two Cheſts of Sugars, or any other goods of the like weight xviij <hi>d.</hi>
+            </p>
+            <p n="5">5. <hi>Alſo from any the Wharfs aforeſaid, To</hi> Broadſtreet, Lothbury, Old jury, Baſſiſhaw, Colemanſtreet, Ironmonger lane, St. Laurence lane, Milkſtreet, Aldermanbury, Cheapſide, Woodſtreet, Fridayſtreet, Breadſtreet, and places of the like diſtance, for any of the ſaid goods of the ſame quantity and weight, for every load xx <hi>d.</hi>
+            </p>
+            <p n="6">6. <hi>Alſo from any the Wharfs aforeſaid, To</hi> Towerſtreet, Gracechurchſtreet, Fanchurch<g ref="char:EOLhyphen"/>ſtreet, Biſhopſgateſtreet within, Cornhill, and other places of like diſtance up the hill with viij <hi>C.</hi> weight, not exceeding xiiij <hi>C.</hi> weight; <hi>In which may be included,</hi> All butts and pipes of Wine, packs of Can<g ref="char:EOLhyphen"/>vas, two hogſheads, or three terces, a fat of Fuſtians, and all other goods of the like bulk and weight, for every load xvj <hi>d.</hi>
+            </p>
+            <p>
+               <hi>And from any the Wharfs aforeſaid, To</hi> Broadſtreet, Lothbury, Old-jury, Baſsiſhaw, Colemanſtreet, Ironmonger lane, St. Laurence lane, Milkſtreet, Aldermanbury, Cheapſide, Woodſtreet, Fridayſtreet, Breadſtreet, and other places of like diſtance, for any other goods of like load and weight, for every load xviij <hi>d.</hi>
+            </p>
+            <p n="7">7. Alſo from London-bridge to the bridge foot Weſtward, Old Swan, Coleharbour, the three Cranes, Queenhithe, Brokenwharf, Paulſwharf, Puddlewharf, the Wardrobe, and to all other places not exceeding the Poultrey, Cheapſide, Newgate market, for xiij <hi>C.</hi> weight, not exceeding xviij <hi>C.</hi> weight xviij <hi>d.</hi>
+            </p>
+            <p>
+               <list>
+                  <item>And for every load of Seacoals xiiij <hi>d.</hi>
+                  </item>
+                  <item>And from all other Wharfs and places be<g ref="char:EOLhyphen"/>tween London-bridge and Temple Barre to the ſame, and places of like diſtance, for every load of Coals xij <hi>d.</hi>
+                  </item>
+                  <item>And to all the places Northward of the Poul<g ref="char:EOLhyphen"/>try, Cheapſide, Newgate market, Holborn bridge and Fleetſtreet, for xiiij <hi>C.</hi> weight, not exceeding xviij <hi>C.</hi> weight xx <hi>d.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="8">8. Alſo from Towerſtreet, Gracechurchſtreet, Fanchurchſtreet, Biſhopſgateſtreet within, Cornhil, and all other places of like diſtance, for every pack of xx Clothes, for vj bales of Clothes and Kerſies, ſix bales of Pepper, ſix barrels of Indico, five hogſheads of Cloves, and for o<g ref="char:EOLhyphen"/>ther goods of like weight to the water-ſide xvj <hi>d.</hi>
+            </p>
+            <p>
+               <list>
+                  <item>And from Broadſtreet, Lothbury, Old-jury, Baſsiſhaw, Colemanſtreet, Ironmonger lane, St. Laurence lane, Milkſteeet, Aldermanbury, Cheapſide, Woodſtreet, Fridayſtreet, Bread<g ref="char:EOLhyphen"/>ſtreet, and other places of like diſtance to the water-ſide, for the like weight, conditionally, that the Carmen do load their own Carrs xviij <hi>d.</hi>
+                  </item>
+                  <item>And if they refuſe to do the ſame, then but xiiij <hi>d.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Alſo for places neerer or of leſſe diſtance, the parties hiring and to be hired, are to make agreement anſwerably and proportionably to the Rates before mentioned.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>James Fleſher,</hi> Printer to the Honorable City of <hi>London.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
